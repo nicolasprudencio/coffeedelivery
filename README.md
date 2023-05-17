@@ -5,12 +5,12 @@ Aplicação web que desenvolvi com a maioria das funcionalidades de um e-commerc
 
 ## 📄 Índice 
 
-- <a href="#Funcionalidades do projeto">Funcionalidades do projeto</a>
-- <a href="#Tecnologias utilizadas">Tecnologias utilizadas</a>
-- <a href="#Layout">Layout</a>
-- <a href="#Demonstração">Demonstração</a>
-- <a href="#Como rodar o projeto">Como rodar o projeto</a>
-- <a href="#perfil">Perfil</a>
+- <h3>Funcionalidades do projeto</h3>
+- <h3>Tecnologias utilizadas</h3>
+- <h3>Layout</h3>
+- <h3>Demonstração</h3>
+- <h3>Como rodar o projeto</h3>
+- <h3>Perfil</h3>
 
 ## 🛠 Funcionalidades do projeto
 
