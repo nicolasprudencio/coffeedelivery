@@ -5,11 +5,11 @@ Aplicação web que desenvolvi com a maioria das funcionalidades de um e-commerc
 
 ## 📄 Índice 
 
-- <a href="#funcionalidades">Funcionalidades do projeto</a>
-- <a href="#tecnologias">Tecnologias utilizadas</a>
-- <a href="#layout">Layout</a>
-- <a href="#demonstracao">Demonstração</a>
-- <a href="#rodar">Como rodar o projeto</a>
+- <a href="#Funcionalidades do projeto">Funcionalidades do projeto</a>
+- <a href="#Tecnologias utilizadas">Tecnologias utilizadas</a>
+- <a href="#Layout">Layout</a>
+- <a href="#Demonstração">Demonstração</a>
+- <a href="#Como rodar o projeto">Como rodar o projeto</a>
 - <a href="#perfil">Perfil</a>
 
 ## 🛠 Funcionalidades do projeto
@@ -20,7 +20,7 @@ Aplicação web que desenvolvi com a maioria das funcionalidades de um e-commerc
 - [x] Concluir pedido
 - [x] Forma de pagamento (não contém cadastro de cartão)
 
-## 📲 Tecnologias
+## 📲 Tecnologias utilizadas
 
 - ReactJS
 - Typescript
